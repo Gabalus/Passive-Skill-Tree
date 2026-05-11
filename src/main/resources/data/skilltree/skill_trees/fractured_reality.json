@@ -1,0 +1,17 @@
+{
+  "skillIds": [
+    "skilltree:fr_origin",
+    "skilltree:fr_void_cartography_1",
+    "skilltree:fr_rift_scavenger",
+    "skilltree:fr_spell_memory_1",
+    "skilltree:fr_arcane_archive",
+    "skilltree:fr_gun_memory_1",
+    "skilltree:fr_arsenal_foundry",
+    "skilltree:fr_combat_memory_1",
+    "skilltree:fr_blood_reaver",
+    "skilltree:fr_relic_memory_1",
+    "skilltree:fr_relic_warden"
+  ],
+  "id": "skilltree:fractured_reality",
+  "skillLimitations": {}
+}
