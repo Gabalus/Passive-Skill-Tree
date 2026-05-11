@@ -1,0 +1,18 @@
+{
+  "id": "skilltree:fr_rift_scavenger",
+  "bonuses": [],
+  "requirements": [],
+  "directConnections": ["skilltree:fr_void_cartography_1"],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": ["fractured_reality", "discord", "loot"],
+  "backgroundTexture": "skilltree:textures/icons/background/greater.png",
+  "iconTexture": "skilltree:textures/icons/emerald.png",
+  "borderTexture": "skilltree:textures/tooltip/greater.png",
+  "title": "Rift Scavenger",
+  "titleColor": "#55FFAA",
+  "positionX": 0.0,
+  "positionY": -180.0,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}
