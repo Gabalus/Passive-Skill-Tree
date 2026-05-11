@@ -1,0 +1,18 @@
+{
+  "id": "skilltree:fr_arsenal_foundry",
+  "bonuses": [],
+  "requirements": [],
+  "directConnections": ["skilltree:fr_gun_memory_1"],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": ["fractured_reality", "scguns", "firearm", "notable"],
+  "backgroundTexture": "skilltree:textures/icons/background/greater.png",
+  "iconTexture": "skilltree:textures/icons/bow.png",
+  "borderTexture": "skilltree:textures/tooltip/greater.png",
+  "title": "Arsenal Foundry",
+  "titleColor": "#FF8844",
+  "positionX": -190.0,
+  "positionY": -80.0,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}
