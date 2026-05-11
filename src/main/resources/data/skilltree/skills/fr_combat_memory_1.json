@@ -1,0 +1,18 @@
+{
+  "id": "skilltree:fr_combat_memory_1",
+  "bonuses": [],
+  "requirements": [],
+  "directConnections": ["skilltree:fr_origin"],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": ["fractured_reality", "epicfight", "combat"],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/sword.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "title": "Combat Memory",
+  "titleColor": "#FF5555",
+  "positionX": -100.0,
+  "positionY": 70.0,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}
