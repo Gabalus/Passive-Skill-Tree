@@ -1,0 +1,18 @@
+{
+  "id": "skilltree:fr_arcane_archive",
+  "bonuses": [],
+  "requirements": [],
+  "directConnections": ["skilltree:fr_spell_memory_1"],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": ["fractured_reality", "irons_spellbooks", "spell", "notable"],
+  "backgroundTexture": "skilltree:textures/icons/background/greater.png",
+  "iconTexture": "skilltree:textures/icons/void.png",
+  "borderTexture": "skilltree:textures/tooltip/greater.png",
+  "title": "Arcane Archive",
+  "titleColor": "#CC99FF",
+  "positionX": 190.0,
+  "positionY": -80.0,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}
